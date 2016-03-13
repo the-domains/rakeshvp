@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: See content
-datePublished: '2016-03-13T00:06:27.295Z'
-dateModified: '2016-03-13T00:06:26.881Z'
+datePublished: '2016-03-13T00:07:00.386Z'
+dateModified: '2016-03-13T00:06:37.062Z'
 title: THE BEGINNING
 author: []
 authors: []
