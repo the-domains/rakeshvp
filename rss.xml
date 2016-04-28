@@ -1,31 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[TEMPORARY LANDING!]]></title>
-        <description><![CDATA[TEMPORARY LANDING!]]></description>
+        <title><![CDATA[RVP BLOG]]></title>
+        <description><![CDATA[RVP BLOG]]></description>
         <link>https://thegrid.ai/rakeshvp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 00:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 08:09:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rakeshvp/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[THE BEGINNING]]></title>
-            <description><![CDATA[<article><h1>THE BEGINNING</h1><p>This website will be a blog featuring links that I find remarkable.  Cheers!</p></article>]]></description>
+            <description><![CDATA[<p>This website will be a blog featuring links that I find remarkable.  Cheers!</p>]]></description>
             <link>https://thegrid.ai/rakeshvp/the-beginning/index.html</link>
             <guid isPermaLink="false">dbd0923a-28c8-4748-9685-7056e0927aa2</guid>
             <pubDate>Sun, 13 Mar 2016 00:11:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stockfish Testing Framework]]></title>
-            <description><![CDATA[<article><h1>Stockfish Testing Framework</h1><p>Since queue is empty, trying to repeat Nicklas Perssons LTC test http://tests.stockfishchess.org/tests/view/56a76e340ebc590247cdf8ea with 7 instead of 3 threads. (A local test with 4,8k showed +3 Elo)</p></article>]]></description>
-            <link>http://tests.stockfishchess.org/tests</link>
-            <guid isPermaLink="false">541a9f63-55d3-4dcc-845d-f4433d2fa915</guid>
-            <pubDate>Sun, 13 Mar 2016 00:15:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FishCooking]]></title>
-            <description><![CDATA[<article><h1>FishCooking</h1><p>Welcome to FishCooking ! This is a discussion group for developers and testers of Stockfish chess engine. If you are a user please refer to Stockfish site , or to the FAQ . We have also a chat .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64f6dc3c95eefb4ad2aaf885e2e8cb203541538b.png"></article>]]></description>
-            <link>https://groups.google.com/forum/#!forum/fishcooking</link>
-            <guid isPermaLink="false">2addbca2-675a-4064-a93e-bda8b671c79c</guid>
-            <pubDate>Sun, 13 Mar 2016 00:03:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
